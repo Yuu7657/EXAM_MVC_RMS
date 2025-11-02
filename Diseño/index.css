@@ -1,0 +1,38 @@
+header{
+	position: relative;
+	margin: auto;
+	text-align: center;
+	padding: 5px;
+
+}
+
+nav{
+	position: relative;
+	margin: auto;
+	width: 100%;
+	height: auto;
+	background: DarkBlue;
+}
+
+nav ul{
+	position: relative;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+nav ul li{
+	display: inline-block;
+	width: 24%;
+	list-style: none;
+	line-height: 50px;
+}
+
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+section{
+	position: relative;
+	padding: 20px;
+}
